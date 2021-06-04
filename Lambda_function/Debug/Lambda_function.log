@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\Lambda_function\Lambda_function\main.cpp(255,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\source\repos\Lambda_function\Lambda_function\main.cpp(298): message : see reference to function template instantiation 'void sort_rule<int>(std::vector<int,std::allocator<int>> &,bool (__cdecl *)(K &,K &))' being compiled
+          with
+          [
+              K=int
+          ]
+C:\Users\Lenovo\source\repos\Lambda_function\Lambda_function\main.cpp(257,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\source\repos\Lambda_function\Lambda_function\main.cpp(268,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\source\repos\Lambda_function\Lambda_function\main.cpp(318): message : see reference to function template instantiation 'void sort_rule<vec<int>>(std::vector<vec<int>,std::allocator<vec<int>>> &,std::function<bool (vec<int> &,vec<int> &)>)' being compiled
+C:\Users\Lenovo\source\repos\Lambda_function\Lambda_function\main.cpp(270,27): warning C4018: '<': signed/unsigned mismatch
+  Lambda_function.vcxproj -> C:\Users\Lenovo\source\repos\Lambda_function\Debug\Lambda_function.exe
